@@ -1,0 +1,17 @@
+.header {
+    width: 100%;
+    padding: 1em;
+    box-sizing: border-box;
+    background-color: #1F2121;
+    color: #D8EBE8;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.text {
+    width: 800px;
+    max-width: 90vw;
+    margin: auto;
+}
